@@ -1,2 +1,2 @@
 # frenchcamp.github.io
-Host for Nintendo and PlayStation exploits ands for my personal usage.
+Host for Nintendo and PlayStation exploits and for my personal usage.
